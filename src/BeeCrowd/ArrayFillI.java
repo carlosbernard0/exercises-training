@@ -2,7 +2,7 @@ package BeeCrowd;
 
 import java.util.Scanner;
 
-public class ArrayfillI {
+public class ArrayFillI {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
